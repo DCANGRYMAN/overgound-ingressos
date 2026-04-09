@@ -1,0 +1,13 @@
+{
+  "name": "OVERGROUND by Oziris",
+  "short_name": "OVERGROUND",
+  "theme_color": "#0a0a0f",
+  "background_color": "#0a0a0f",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    { "src": "assets/icons/icon-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
